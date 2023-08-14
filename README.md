@@ -5,13 +5,11 @@ Python is a very serious language.
 Also Python:
 
 import pickle
+(
+|[![My Stats](https://github-readme-stats.vercel.app/api?username=nat-leo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nat-leo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-[![My Stats](https://github-readme-stats.vercel.app/api?username=nat-leo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nat-leo)](https://github.com/anuraghazra/github-readme-stats)
-
+|[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nat-leo)](https://github.com/anuraghazra/github-readme-stats)|
+)
 
 
 ### Hi there 👋
