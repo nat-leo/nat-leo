@@ -4,7 +4,7 @@
 
 ### My Languages
 
-[![on Github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nat-leo&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![on Github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nat-leo&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
