@@ -1,6 +1,6 @@
 ### Computer Engineer 
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=nat-leo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=nat-leo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Languages
 
