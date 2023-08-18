@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Relational Databases
+- 🔭 I’m currently working on a [Relational DBMS](https://github.com/nat-leo/sql-dbms)
 - 🌱 I’m currently learning about Database Management Systems and Compilers
 - 💬 Ask me about: Ramen
 
