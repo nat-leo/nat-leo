@@ -1,5 +1,7 @@
 ### Computer Engineer 
 
+[nat-leo](https://github.com/nat-leo/nat-leo) is a Software Developer studying at the University of California, Santa Cruz. 
+
 [![My Stats](https://github-readme-stats.vercel.app/api?username=nat-leo&show_icons=true&hide_border=true&&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Languages
