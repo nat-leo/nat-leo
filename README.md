@@ -8,6 +8,8 @@
 
 [![on Github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nat-leo&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nat-leo)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on a [Relational DBMS](https://github.com/nat-leo/sql-dbms)
