@@ -10,14 +10,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on a [Relational DBMS](https://github.com/nat-leo/sql-dbms)
-- 🌱 I’m currently learning about Database Management Systems and Compilers
+- 🔭 I’m currently working on LLM
+- 🌱 I’m currently learning about LLM and React
 - 💬 Ask me about: Ramen
 
 ### My current active PRs:
-
-[add kind e2e test to CI workflow](https://github.com/kubernetes/ingress-nginx/pull/10198)
-
 
 <!--
 **nat-leo/nat-leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
